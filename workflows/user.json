@@ -1,0 +1,14 @@
+{
+  "username": "krzysztof",
+  "password": "B&e4_s99M",
+  "role": "admin",
+  "name": "Krzysztof",
+  "surname": "Zabolotny",
+  "department": "IT",
+  "position": "intern",
+  "email": "krzysztof.zabolotny@gmail.com",
+  "phoneNumber": "92010437",
+  "registrationDate": 1622318878799,
+  "lastLoginDate": 1622318878799,
+  "active": "true"
+}
